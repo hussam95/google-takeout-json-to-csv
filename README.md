@@ -23,3 +23,7 @@ There are four .py files in this repo:
 
 ## How to Use
 Run `main.py` using terminal. Provide --input and --dest arguments which correspond to the input and output locations.
+
+Here is an example of how you can use your terminal to run this repository:
+![Screenshot from 2022-03-09 00-35-00](https://user-images.githubusercontent.com/77602201/157312212-3a20d8c2-fe71-4c94-953f-3d0b55a26d22.png)
+
