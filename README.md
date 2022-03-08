@@ -17,12 +17,12 @@ There are four .py files in this repo:
 
 2. `parser.py` is the engine of this repository. This file has the recursive logic that is used in main.py to parse incoming jsons into csvs
 
-3. `schema.py` solves the problem of loosing correspondence in the output csvs that may aruse due to missing keys/values in the jsons
+3. `schema.py` solves the problem of loosing correspondence in the output csvs that may arise due to missing keys/values in the jsons.
 
 4. `json_editor.py` appends empty values against missing values in the incoming jsons. It makes use of `schema.py` to make that happen. 
 
 ## How to Use
-Run `main.py` using terminal. Provide --input and --dest arguments which correspond to the input and output locations.
+Run `main.py` using terminal. Provide `--input` and `--dest` arguments which correspond to the input and output locations.
 
 Here is an example of how you can use your terminal to run this repository:
 
