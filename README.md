@@ -1,4 +1,4 @@
-# googletakeout.json_to.csv
+# google_takeoutJSONtoCSV
 
 ## Background
 Google allows its users to [download](https://accounts.google.com/signin/v2/identifier?passive=1209600&osid=1&continue=https%3A%2F%2Ftakeout.google.com%2Fsettings%2Ftakeout&followup=https%3A%2F%2Ftakeout.google.com%2Fsettings%2Ftakeout&flowName=GlifWebSignIn&flowEntry=ServiceLogin) thier account activity data. Users can either download their data in json or html file formats. While useful, these file formats have certain limitations when it comes to data wrangling. 
